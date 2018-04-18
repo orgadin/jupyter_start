@@ -1,4 +1,5 @@
 #jupyter start
+#-*- coding:Utf-8 -*-
 import os
 import getpass
 import platform
